@@ -1,0 +1,5 @@
+2024-01-16T07:14:44+00:00 INFO Payment gateway enabled: "Cash on delivery"
+2024-01-16T07:39:42+00:00 INFO Payment gateway enabled: "Payoneer Checkout"
+2024-01-16T07:41:42+00:00 DEBUG Automattic\WooCommerce\Internal\DataStores\Orders\DataSynchronizer::get_current_orders_pending_sync_count was called but no order types were registered: it may have been called too early.
+2024-01-16T07:51:03+00:00 INFO Payment gateway enabled: "Check payments"
+2024-01-16T07:51:41+00:00 INFO Payment gateway enabled: "Direct bank transfer"
